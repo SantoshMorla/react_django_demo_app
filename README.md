@@ -6,4 +6,4 @@ docker-compose up -d
 
 
 
-finalyy project has been done
+finally project has been done
